@@ -10,7 +10,6 @@ export class HelloComponent{
   message: string = "Hello from HelloComponent!";
   count: number = 0;
   increment() {
-    
     this.count++;
   }
   decrement(){
