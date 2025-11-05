@@ -1,0 +1,20 @@
+h2 {
+  color: blue;
+}
+button {
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+.in{
+    margin-right: 5px;
+    background-color: green;
+    color:white;
+    border:none
+
+}
+.dec{
+    margin-left:6px;
+    background-color: red;
+    color:white;
+    border: none;
+}
